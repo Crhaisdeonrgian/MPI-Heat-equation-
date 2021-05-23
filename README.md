@@ -1,2 +1,2 @@
 # MPI-Heat-equation-
-Solving the heat equation using MPI
+Here you can find Heat equation solved with MPI
